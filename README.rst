@@ -1,4 +1,4 @@
-**This plugin has been update with the help of AI to work in Python 3.**
+**This plugin has been updated with the help of AI to work in Python 3.**
 
 It seems to run just fine. However, I have not tested it thoroughly, nor have I reviewed all the code. Some parts may be redundant or inefficient, and some comments might be redundant or excessive. Blame the AI, not me.
 
