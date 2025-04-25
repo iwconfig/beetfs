@@ -1,3 +1,9 @@
+**This plugin has been update with the help of AI to work in Python 3.**
+
+It seems to run just fine. However, I have not tested it thoroughly, nor have I reviewed all the code. Some parts may be redundant or inefficient, and some comments might be redundant or excessive. Blame the AI, not me.
+
+-----
+
 Organising a music library can be a hassle. With the wealth of online stores all providing music tagged in various formats, it can be a nightmare to unify them all.
 
 This is where beetFs comes in. Derived from beets, beetFs presents a FUSE filesystem that is based on your tags.
